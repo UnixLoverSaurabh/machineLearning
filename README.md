@@ -1,2 +1,4 @@
 # machineLearning
-My journey to learn ML. I am waiting for your suggestions
+My journey to learn ML.
+
+Give some suggestion for NLP based projects.
